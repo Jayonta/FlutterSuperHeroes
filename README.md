@@ -1,4 +1,4 @@
-# 🤓 FlutterSuperHeroes [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/JideGuru/FlutterSuperHeroes/graphs/commit-activity) [![GitHub stars](https://img.shields.io/github/stars/JideGuru/FlutterSuperHeroes.svg?style=social&label=Star)](https://github.com/JideGuru/FlutterSuperHeroes/stargazers/)
+# 🤓 FlutterSuperHeroes 
 
 
 
@@ -30,17 +30,7 @@ A Flutter app that displays superheroes and villains from different universes
 * A brain to think 🤓🤓
 
 ## 🤓 Author(s)
-**Olusegun Festus Babajide**
-
-## Contributors
-1. [Herovickers](https://github.com/herovickers)
-
-## ❗️ Disclaimer
-
-[Superhero API](https://akabab.github.io/superhero-api/api/) was used in making this app.
-Pardon my Bad English 😔
-
-Give a ⭐️ if you like what you see.
+Jayonta Karmakar
 
 ## Getting Started
 
